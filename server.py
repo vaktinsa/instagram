@@ -1,5 +1,5 @@
 from instagram import application
 
-print('Yo')
+print('Ban')
 
 application.run()
